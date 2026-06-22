@@ -1,5 +1,5 @@
-# DSA
-saving all my DSA codes here.
+DSA
+Solution of the Leetcode probelms I have solved.
 Author-Samudra sashanka Buragohain
 
 <!---LeetCode Topics Start-->
