@@ -20,6 +20,7 @@ Author-Samudra sashanka Buragohain
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/samudraBG/DSA/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/samudraBG/DSA/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
@@ -29,4 +30,8 @@ Author-Samudra sashanka Buragohain
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/samudraBG/DSA/tree/master/0389-find-the-difference) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/samudraBG/DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
