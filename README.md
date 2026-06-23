@@ -38,4 +38,16 @@ Author-Samudra sashanka Buragohain
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/samudraBG/DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/samudraBG/DSA/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/samudraBG/DSA/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/samudraBG/DSA/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
