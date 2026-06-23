@@ -34,4 +34,8 @@ Author-Samudra sashanka Buragohain
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/samudraBG/DSA/tree/master/0344-reverse-string) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/samudraBG/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
