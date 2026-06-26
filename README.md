@@ -42,18 +42,21 @@ Author-Samudra sashanka Buragohain
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/samudraBG/DSA/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/samudraBG/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samudraBG/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/samudraBG/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/samudraBG/DSA/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/samudraBG/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samudraBG/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/samudraBG/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/samudraBG/DSA/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/samudraBG/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samudraBG/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/samudraBG/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -61,4 +64,8 @@ Author-Samudra sashanka Buragohain
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/samudraBG/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/samudraBG/DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
