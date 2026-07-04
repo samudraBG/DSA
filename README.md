@@ -8,16 +8,19 @@ Author-Samudra sashanka Buragohain
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/samudraBG/DSA/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/samudraBG/DSA/tree/master/0268-missing-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/samudraBG/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/samudraBG/DSA/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/samudraBG/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/samudraBG/DSA/tree/master/0389-find-the-difference) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/samudraBG/DSA/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/samudraBG/DSA/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -26,10 +29,12 @@ Author-Samudra sashanka Buragohain
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/samudraBG/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/samudraBG/DSA/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/samudraBG/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/samudraBG/DSA/tree/master/0389-find-the-difference) |
 ## Two Pointers
 |  |
@@ -68,4 +73,8 @@ Author-Samudra sashanka Buragohain
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/samudraBG/DSA/tree/master/0100-same-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/samudraBG/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
