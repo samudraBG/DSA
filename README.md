@@ -8,12 +8,14 @@ Author-Samudra sashanka Buragohain
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/samudraBG/DSA/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/samudraBG/DSA/tree/master/0036-valid-sudoku) |
 | [0268-missing-number](https://github.com/samudraBG/DSA/tree/master/0268-missing-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/samudraBG/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/samudraBG/DSA/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/samudraBG/DSA/tree/master/0036-valid-sudoku) |
 | [0268-missing-number](https://github.com/samudraBG/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/samudraBG/DSA/tree/master/0389-find-the-difference) |
 ## Math
@@ -77,4 +79,8 @@ Author-Samudra sashanka Buragohain
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/samudraBG/DSA/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/samudraBG/DSA/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
